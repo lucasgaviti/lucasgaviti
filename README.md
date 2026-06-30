@@ -1,16 +1,46 @@
-## Hi there 👋
+# Lucas Gaviti
 
-<!--
-**lucasgaviti/lucasgaviti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, em formação para atuar com desenvolvimento de software, com foco em aplicações web, organização de dados e soluções digitais para problemas reais.
 
-Here are some ideas to get you started:
+Atualmente estou estudando e desenvolvendo projetos práticos utilizando tecnologias como JavaScript, TypeScript, React, Git, GitHub e banco de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Cursando Bacharelado em Engenharia de Software
+- Experiência profissional em Segurança do Trabalho, Meio Ambiente e rotinas industriais
+- Interesse em desenvolvimento web, sistemas internos, dashboards e automação de processos
+- Em desenvolvimento para oportunidades de estágio em tecnologia
+
+## Tecnologias em estudo
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Git e GitHub
+- Supabase
+- SQL
+
+## Projetos em desenvolvimento
+
+### MyFlow
+
+Aplicação web para controle financeiro pessoal, com organização de receitas, despesas, metas, dashboard e planejamento mensal.
+
+### Sistema de Controle SST
+
+Projeto voltado para controle de EPIs, treinamentos, vencimentos, indicadores e registros relacionados à Segurança do Trabalho.
+
+### Sistema de Orçamentos para Eventos
+
+Aplicação para catálogo de produtos, montagem de orçamento e envio de solicitação via WhatsApp.
+
+## Objetivo
+
+Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções bem estruturadas.
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/lucas-gaviti-a35961172/
+- E-mail: lucasgaviti@gmail.com
