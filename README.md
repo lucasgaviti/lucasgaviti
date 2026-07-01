@@ -28,6 +28,9 @@ Atualmente estou estudando e desenvolvendo projetos práticos utilizando tecnolo
 
 Aplicação web para controle financeiro pessoal, com organização de receitas, despesas, metas, dashboard e planejamento mensal.
 
+Repositório:  
+https://github.com/lucasgaviti/myflow-finance-app
+
 ### Sistema de Controle SST
 
 Projeto voltado para controle de EPIs, treinamentos, vencimentos, indicadores e registros relacionados à Segurança do Trabalho.
