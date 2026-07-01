@@ -31,14 +31,6 @@ Aplicação web para controle financeiro pessoal, com organização de receitas,
 Repositório:  
 https://github.com/lucasgaviti/myflow-finance-app
 
-### Sistema de Controle SST
-
-Projeto voltado para controle de EPIs, treinamentos, vencimentos, indicadores e registros relacionados à Segurança do Trabalho.
-
-### Sistema de Orçamentos para Eventos
-
-Aplicação para catálogo de produtos, montagem de orçamento e envio de solicitação via WhatsApp.
-
 ## Objetivo
 
 Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções bem estruturadas.
